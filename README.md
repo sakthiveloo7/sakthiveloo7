@@ -14,14 +14,6 @@
 
 I'm **Sakthivel**, a MERN stack developer based in **Chennai, India**. I made the jump from a **business administration** background into full-stack development, completing a full-stack certification through **GUVI – IITM Research Park (2024)**. Since then I've been building, breaking, and rebuilding real applications — not just tutorial clones — and pushing toward product-company-ready skills.
 
-- 🛠️ **Currently building:** an AI feature (OpenAI/Gemini API) into CleanEase, and a third project — **DevBoard**, an AI-powered job application tracker
-- 📚 **Currently learning:** TypeScript, as part of a structured 6-month roadmap toward 2026 job-market readiness
-- 🎯 **Looking for:** MERN Stack Developer internships / junior roles at product companies & startups
-- 🎨 **Side passion:** building playful, ambitious side projects — from a 3D browser game to a fully animated birthday prank site
-- 💬 **Ask me about:** React, Node.js, MongoDB, Express, REST APIs, JWT auth, or how to debug a stubborn CORS error
-
----
-
 ### 🚀 Featured Projects
 
 <table>
