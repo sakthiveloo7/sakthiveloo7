@@ -51,7 +51,7 @@ Movie review application with full authentication and a rebuilt, hardened backen
 </tr>
 </table>
 
-> 💡 Replace the badge links above with your live Netlify URLs once you have them handy — recruiters click "live demo" before they click "code."
+
 
 ---
 
